@@ -14,7 +14,7 @@
 
 ## 🎯 Sobre o Projeto
 
-**Slash Café** é uma landing page fictícia e estilizada para uma cafeteria premium no Rio de Janeiro, criada como exercício prático para o curso de **Desenvolvimento Front-End** da [DevMedia](https://www.devmedia.com.br/).
+**Slash Café** é uma landing page estilizada para uma cafeteria premium fictícia no Rio de Janeiro, criada como exercício prático para o curso de **Desenvolvimento Front-End** da [DevMedia](https://www.devmedia.com.br/).
 
 O projeto incorpora uma identidade visual única, com elementos do universo rock'n'roll e da figura lendária de **Slash (Guns N’ Roses)**, criando uma experiência divertida, responsiva e criativa.
 
