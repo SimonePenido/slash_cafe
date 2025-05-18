@@ -54,9 +54,13 @@ Ferramentas de IA utilizadas para apoio técnico e criativo:
 ## 📁 Estrutura de Diretórios
 
 📁 slash-cafe
+<br>
 ┣ 📁 Imagens
+<br>
 ┣ 📄 index.html
+<br>
 ┣ 📄 style.css
+<br>
 ┗ 📄 README.md
 ---
 
