@@ -4,8 +4,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![Responsive](https://img.shields.io/badge/Responsive-Design-%2300d084?style=for-the-badge)
-![ChatGPT](https://img.shields.io/badge/Feito_com-ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=fff)
-![GitHub](https://img.shields.io/github/license/sua-conta/slash-cafe?style=for-the-badge)
+![ChatGPT](https://img.shields.io/badge/Estruturado_com-ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=fff)
 
 <img src="https://github.com/user-attachments/assets/59d468db-3fe4-4e55-abf5-c50c92d902b6" alt="Slash-Logo" width="500">
 
@@ -19,8 +18,8 @@
 O projeto incorpora uma identidade visual única, com elementos do universo rock'n'roll e da figura lendária de **Slash (Guns N’ Roses)**, criando uma experiência divertida, responsiva e criativa.
 
 ### Deploy:
-[Vercel](https://slash-cafe.netlify.app)
-[GitHub Pages](https://simonepenido.github.io/slash_cafe/)
+Vercel: [Vercel](https://slash-cafe.netlify.app) | 
+GitHub Pages: [GitHub Pages](https://simonepenido.github.io/slash_cafe/)
 
 
 ---
