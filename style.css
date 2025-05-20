@@ -86,17 +86,18 @@ a:hover {
     font-size: 4rem;
     letter-spacing: 4px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-    background-color: rgba(0, 0, 0, 0.719);
+    background-color: rgba(0, 0, 0, 0.842);
     padding: 1rem 2rem;
     border-radius: 8px;
     font-family: "Metal Mania", system-ui;
     font-weight: 100;
     letter-spacing: 1px;
+    border-radius: 60px;
 }
 
 .container-parallax1 h2 {
     font-size: 1.5rem;
-    color: #1a1a1a;
+    color: #070707;
     text-shadow: 2px 3px 4px rgba(233, 217, 3, 0.863);
 
 }
